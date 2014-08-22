@@ -1,0 +1,21 @@
+{
+  "styles": [
+    ["base" , {
+      "wordWrap": "CJK"
+    }],
+    ["literal" , {
+      "wordWrap": "None"
+    }]
+  ],
+  "embeddedFonts" : [["wqy-zenhei.ttc","msyhbd.ttf","wqy-zenhei.ttc","wqy-zenhei.ttc"]],
+  "fontsAlias" : {
+    "stdFont": "wqy-zenhei",
+    "stdBold": "msyhbd",
+    "stdItalic": "wqy-zenhei",
+    "stdBoldItalic": "wqy-zenhei",
+    "stdMono": "wqy-zenhei",
+    "stdMonoBold": "wqy-zenhei",
+    "stdSanBold": "wqy-zenhei",
+    "stdSansBold": "wqy-zenhei"
+  }
+}
